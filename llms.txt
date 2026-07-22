@@ -12,6 +12,7 @@ Language: Spanish (Chile)
 
 ## Verified profiles
 - Medium: https://manualdecampo.medium.com/
+- LinkedIn: https://www.linkedin.com/in/manualdecampo/
 - GitHub: https://github.com/manualdecampo
 - Instagram: https://www.instagram.com/manualdecampo/
 - En El Camarín: https://enelcamarin.cl/author/descobar/ (username: descobar; football match archive)
